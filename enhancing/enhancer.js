@@ -16,7 +16,7 @@ function fail(item) {
 function repair(item) {
   return { ...item };
 }
-
+//stretch
 function get(item) {
   return { ...item };
 }

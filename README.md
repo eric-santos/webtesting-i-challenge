@@ -51,7 +51,7 @@ After a set of interviews with the potential users of the solution, we gathered 
 
 The following sections list information provided by the client about `items` and the game's enhancing system.
 
-### Items.
+### Items
 
 - Items have `name`, `durability` and `enhancement`.
 - The item's `enhancement` it's a number from 0 to 20.
